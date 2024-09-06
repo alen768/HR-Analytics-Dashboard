@@ -5,7 +5,7 @@ It highlights key insights related to employee attrition, job satisfaction, and 
 
 You can view the dashboard in the PDF linked below:
 
-[HR-Analytics-Dashboard](HR Dashboard.pdf)
+[HR-Analytics-Dashboard](HR_Analytics_Dashboard.pdf)
 
 **Key Insights:**
 - Attrition by Education.
