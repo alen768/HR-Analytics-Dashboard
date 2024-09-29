@@ -3,6 +3,9 @@
 This project contains an interactive HR Analytics Dashboard built using Power BI.
 It highlights key insights related to employee attrition, job satisfaction, and attrition by years at company.
 
+## Screenshot
+
+![Screenshot of the Dashboard](Capture.PNG)
 
 **Objective:**
 Help an organization to improve employee performance and improve employee retention(reduce attrition) by creating HR dashboard.
